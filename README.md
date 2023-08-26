@@ -23,6 +23,8 @@ open another terminal and run below commands for server setup
 
 everything else is added and taken care of.
 
+<br/>
+register and the sign in. 
 
 
 
