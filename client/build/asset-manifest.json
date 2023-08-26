@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ojashiringtask/static/css/main.b62ea404.css",
+    "main.js": "/ojashiringtask/static/js/main.c982aeae.js",
+    "index.html": "/ojashiringtask/index.html",
+    "main.b62ea404.css.map": "/ojashiringtask/static/css/main.b62ea404.css.map",
+    "main.c982aeae.js.map": "/ojashiringtask/static/js/main.c982aeae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.c982aeae.js"
+  ]
+}
