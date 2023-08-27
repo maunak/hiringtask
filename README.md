@@ -16,6 +16,8 @@ open another terminal and run below commands for server setup
 
 1)cd server
 <br/>
+replace the  mongodb database url on env file with your mongodb instance url. 
+<br/>
 
 2)npm start
 <br/>
